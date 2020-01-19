@@ -1,0 +1,145 @@
+{
+  "controller_name": "ERC112",
+  "_image": "erc112.jpg",
+  "parameters": [
+    {
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    },{
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    },{
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    },{
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    },{
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    },{
+      "parameter_name": "Set Point",
+      "pnu": "63",
+      "scale": 100,
+      "type": "input",
+      "values": []
+    },
+    {
+      "parameter_name": "Fan Type",
+      "pnu": "00",
+      "scale": 1,
+      "type": "options",
+      "values": [
+        "Fan On",
+        "Fan Off"
+      ]
+    },
+    {
+      "parameter_name": "Air Temp",
+      "pnu": "00",
+      "scale": 1,
+      "type": "input",
+      "values": []
+    }
+  ]
+}

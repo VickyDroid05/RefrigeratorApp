@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="chevron_img_size">20dp</dimen>
+    <dimen name="chevron_margin_size">5dp</dimen>
+    <dimen name="control_title_size">15sp</dimen>
+    <dimen name="control_description_size">25sp</dimen>
+    <dimen name="control_option_size">30sp</dimen>
+    <dimen name="view_divider">1dp</dimen>
+    <dimen name="view_divider_margin">20dp</dimen>
+</resources>
